@@ -1,0 +1,18 @@
+,Features,
+Quantitative, Age, Age in years ranging from 20 to 90
+Categorical, Gender, Male / Female
+, Polyuria, Yes / No
+, Polydipsia, Yes / No
+, Sudden weight loss, Yes / No
+, Weakness, Yes / No
+, Polyphagia, Yes / No
+, Genital Thrush, Yes / No
+, Visual blurring, Yes / No
+, Itching, Yes / No
+, Irritability, Yes / No
+, Delayed healing, Yes / No
+, Partial Paresis, Yes / No
+, Muscle stiffness, Yes / No
+, Alopecia, Yes / No
+, Obesity, Yes / No
+Label, Class,Positive / Negative
